@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.jackson3.demo;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.core.io.ClassPathResource;
